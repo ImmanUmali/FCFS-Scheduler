@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Instruction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|solutionrelative:Instruction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Process.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|solutionrelative:Process.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\Week 2 Seatwork OS and Process written in C\u002B\u002B\\ProcessSched.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\FCFS-Scheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|solutionrelative:FCFS-Scheduler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14214DC-5593-420E-96CA-FD14D9E640FF}|FCFS-Scheduler.vcxproj|solutionrelative:Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Core.h",
+              "DocumentMoniker": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Core.h",
+              "RelativeDocumentMoniker": "Core.h",
+              "ToolTip": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Core.h",
+              "RelativeToolTip": "Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-15T03:36:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessSched.h",
+              "DocumentMoniker": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\Week 2 Seatwork OS and Process written in C\u002B\u002B\\ProcessSched.h",
+              "RelativeDocumentMoniker": "..\\Week 2 Seatwork OS and Process written in C\u002B\u002B\\ProcessSched.h",
+              "ToolTip": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\Week 2 Seatwork OS and Process written in C\u002B\u002B\\ProcessSched.h",
+              "RelativeToolTip": "..\\Week 2 Seatwork OS and Process written in C\u002B\u002B\\ProcessSched.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-15T03:34:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FCFS-Scheduler.cpp",
+              "DocumentMoniker": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\FCFS-Scheduler.cpp",
+              "RelativeDocumentMoniker": "FCFS-Scheduler.cpp",
+              "ToolTip": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\FCFS-Scheduler.cpp",
+              "RelativeToolTip": "FCFS-Scheduler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-15T03:34:26.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Process.h",
+              "DocumentMoniker": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Process.h",
+              "RelativeDocumentMoniker": "Process.h",
+              "ToolTip": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Process.h",
+              "RelativeToolTip": "Process.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-15T03:30:59.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Instruction.h",
+              "DocumentMoniker": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Instruction.h",
+              "RelativeDocumentMoniker": "Instruction.h",
+              "ToolTip": "D:\\DLSU Files\\Term 9\\902 CSOPESY\\Misc\\FCFS-Scheduler\\Instruction.h",
+              "RelativeToolTip": "Instruction.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-15T03:30:57.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
